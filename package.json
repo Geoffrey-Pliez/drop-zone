@@ -1,0 +1,19 @@
+{
+  "name": "<auto-filled>",
+  "version": "<auto-filled>",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "wcd-cli serve 807Dpbt1nfkO7By9kLzj --open"
+  },
+  "author": {
+    "name": "Geoffrey Pliez",
+    "email": "geoffrey.pliez@crem.be"
+  },
+  "devDependencies": {
+    "wcd-cli": "latest"
+  },
+  "dependencies": {}
+}
